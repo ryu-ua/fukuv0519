@@ -24,17 +24,17 @@ namespace fukuv0519
 
         private void button1_Click(object sender, EventArgs e)
         {
-           button1.Text = "荒川龍";
+            button1.Text = "荒川龍";
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
-          button2.Visible = false;
+            button2.Visible = false;
         }
 
         private void button3_Click(object sender, EventArgs e)
         {
-            
+            button3.Top = 30;
         }
     }
 }
